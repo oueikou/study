@@ -5,5 +5,5 @@ import java.util.Date;
 public class DateUtil {
 
 	Date d1 = new Date();
-
+	Date d2 = new Date();
 }
