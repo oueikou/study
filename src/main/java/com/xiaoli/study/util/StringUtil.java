@@ -7,6 +7,7 @@ public class StringUtil {
 	
 	static Logger LOGGER = LoggerFactory.getLogger(StringUtil.class);
 	String s1 = "";
+	String s2 = "";
 			
     public static void main(String[] args) {
         for (int i = 0; i < 10; i++)
