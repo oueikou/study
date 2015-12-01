@@ -6,6 +6,8 @@ import org.slf4j.LoggerFactory;
 public class StringUtil {
 	
 	static Logger LOGGER = LoggerFactory.getLogger(StringUtil.class);
+	
+			
     public static void main(String[] args) {
         for (int i = 0; i < 10; i++)
             if (i % 2 == 0)
@@ -13,5 +15,6 @@ public class StringUtil {
             else
                 LOGGER.info("I am on index {}", i);
     }
+    
 
 }
